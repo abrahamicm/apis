@@ -1,0 +1,36 @@
+# Ignorar archivos de entorno
+.env
+
+# Ignorar archivos de compilación y temporales
+*.log
+*.tmp
+*.swp
+
+# Ignorar directorios específicos de IDEs
+.vscode/
+.idea/
+*.suo
+*.user
+
+# Ignorar archivos y carpetas de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignorar archivos y carpetas de JavaScript
+node_modules/
+
+# Ignorar archivos y carpetas de Java
+*.class
+*.jar
+*.war
+
+# Ignorar archivos generados por el sistema operativo
+.DS_Store
+Thumbs.db
+
+# Ignorar archivos de documentación que no deben ser versionados
+docs/*.pdf
+
+# Otras reglas específicas si es necesario
